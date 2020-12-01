@@ -38,7 +38,6 @@ class Employee implements Comparable<Employee>{
                 "id=" + id +
                 ", name='" + name + '\'' +
                 ", surname='" + surname + '\'' +
-                ", surn='" + surname + '\'' +
                 ", salary=" + salary +
                 '}';
     }
