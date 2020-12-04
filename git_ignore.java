@@ -1,2 +1,4 @@
-package comparation;public class git_ignore {
+package comparation;
+
+public class git_ignore {
 }
